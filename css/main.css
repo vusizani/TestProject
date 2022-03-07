@@ -1,5 +1,7 @@
 #myBtn{
     background-color: powderblue;
+    color: blue;
+    border-radius: 25%;
 }
 
 p{
